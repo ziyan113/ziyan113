@@ -8,7 +8,6 @@
 ## 🔧 Tech Stack
 
 
-## 🔧 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
