@@ -32,10 +32,10 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-mohammed-ziyan-46673b31a))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-mohammed-ziyan-46673b31a)]  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)]  
 ![Visitors](https://komarev.com/ghpvc/?username=ziyan113&color=blue)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+%26+ML+Explorer;Hackathon+Enthusiast;Future+Tech+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=AI+%26+ML+Explorer;Future+Tech+Builder)](https://git.io/typing-svg)
