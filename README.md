@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 Featured Projects
-🔹 [VisionCount AI](https://github.com/ziyan113/visioncount-ai) – AI-powered tire detection & vehicle counting system 🚗🛞  
+🔹 [VisionCount AI](https://github.com/ziyan113/visioncount-ai) – AI-powered object detection & counting system   
 
 ---
 
