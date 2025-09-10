@@ -31,8 +31,7 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-mohammed-ziyan-46673b31a)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-mohammed-ziyan-46673b31a)
 ![Visitors](https://komarev.com/ghpvc/?username=ziyan113&color=blue)
 
 ---
