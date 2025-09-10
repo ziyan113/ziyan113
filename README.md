@@ -1,7 +1,7 @@
 # Hi there, I'm Ziyan 👋  
 
 🎓 B.Tech CSE (AI & ML) @ SRM KTR  
-🚀 Hackathon Enthusiast | 💡 Future Tech Explorer | 📈 Building Skills in AI/ML & Automation  
+🚀 Innovative Problem Solver | 💡 Future Tech Explorer | 📈 Building Skills in AI/ML & Automation  
 
 ---
 
