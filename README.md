@@ -8,8 +8,6 @@
 ## 🔧 Tech Stack
 - 💻 **Languages:** Python, C, C++  
 - 🤖 **AI/ML:** TensorFlow, PyTorch, scikit-learn  
-- 🌐 **Web Dev:** HTML, CSS, JavaScript, React  
-- ⚙️ **Tools:** Git, FastAPI, Docker, FAISS  
 
 ---
 
@@ -24,7 +22,6 @@
 
 ## 🌟 Featured Projects
 🔹 [VisionCount AI](https://github.com/ziyan113/visioncount-ai) – AI-powered tire detection & vehicle counting system 🚗🛞  
-🔹 [HackRx Query Retriever](https://github.com/ziyan113/hackrx-query-retriever) – LLM-powered intelligent document retrieval system 📑🤖  
 
 ---
 
