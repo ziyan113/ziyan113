@@ -21,8 +21,7 @@
 ---
 
 ## 🌟 Featured Projects
-🔹 [VisionCount AI](https://github.com/ziyan113/visioncount-ai) – AI-powered object detection & counting system   
-
+🔹 [VisionCount AI](https://github.com/ziyan113/VISIONCOUNT_AI) – AI-powered object detection & counting system   
 ---
 
 ## 🎯 Currently Working On 
